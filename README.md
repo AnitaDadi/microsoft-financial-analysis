@@ -69,17 +69,7 @@ Power BI
      
 Dashboard & Business Insights
 
-### Financial Performance Overview
-
-![Financial Performance Overview](screenshots/Microsoftfinancialperformanceoverview.png)
-
-### Cash Flow & Investment
-
-![Cash Flow & Investment](screenshots/Cashflowandinvestment.png)
-
-### Financial Position
-
-![Financial Position](screenshots/Financialposition.png)
+screenshots
 
 Revenue growth
 
