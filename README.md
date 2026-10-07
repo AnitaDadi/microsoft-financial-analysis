@@ -71,15 +71,15 @@ Dashboard & Business Insights
 
 ### Financial Performance Overview
 
-![Financial Performance Overview](screenshots/microsoft_financial_performance_overview.png)
+![Financial Performance Overview](screenshots/Microsoft financial performance overview.png)
 
 ### Cash Flow & Investment
 
-![Cash Flow & Investment](screenshots/cash_flow_investment.png)
+![Cash Flow & Investment](screenshots/Cash flow and investment.png)
 
 ### Financial Position
 
-![Financial Position](screenshots/financial_position.png)
+![Financial Position](screenshots/Financial position.png)
 
 Revenue growth
 
