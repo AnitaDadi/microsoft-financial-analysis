@@ -71,7 +71,7 @@ Dashboard & Business Insights
 
 ### Financial Performance Overview
 
-![Financial Performance Overview](screenshots/dashboard_overview.png)
+![Financial Performance Overview](screenshots/microsoft_financial_performance_overview.png)
 
 ### Cash Flow & Investment
 
